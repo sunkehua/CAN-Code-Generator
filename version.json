@@ -1,5 +1,5 @@
 {
     "latest_version": "3.0.0",
-    "download_url": "https://github.com/sunkehua/CAN-Code-Generator/releases/latest",
-    "update_log": "V3.0.0 更新内容：\n1. 修复了跨字节信号解包问题\n2. 增加了自动检查版本更新功能\n3. 优化了字符缩进，使代码对齐美观"
+    "download_url": "https://github.com/sunkehua/CAN-Code-Generator/releases/download/v3.0.0/CAN_Code_Generator_V3.0.0.exe",
+    "update_log": "v3.0.0 更新内容: \n1. 修复了跨字节信号解包问题\n2. 增加了自动检查版本更新功能\n3. 优化了字符缩进, 使代码对齐美观"
 }
